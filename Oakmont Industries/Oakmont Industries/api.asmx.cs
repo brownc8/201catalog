@@ -24,6 +24,8 @@ namespace WebAPI {
     ///		Last Updated:	4-14-2019
     ///
     ///		Last Update:	Added encryption and cookie support
+    ///     Given with permission by Mike Stahr. No code has been changed other than that
+    ///     in the methods section. These methods are unique to our database.
     /// </summary>
     [WebService(Namespace = "http://tempuri.org/")]
     [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
